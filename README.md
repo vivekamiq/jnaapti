@@ -1,1 +1,1 @@
-# jnaapti
+# jnaapti - mini project
